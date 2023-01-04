@@ -2,8 +2,8 @@ public class CookingUnit {
     private String dish;
     private boolean occupied;
 
-    public void setDish(Dish dish) {
-        this.dish = dish.getDishName();
+    public void setDish(String dish) {
+        this.dish = dish;
         this.occupied = true;
     }
 
