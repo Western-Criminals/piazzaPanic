@@ -1,3 +1,11 @@
 {
-    // "dish_name": duration
+    0: {
+        "name": "burger",
+        "duration": 10
+    }
+
+    1: {
+        "name": "",
+        "duration": 0
+    }
 }
