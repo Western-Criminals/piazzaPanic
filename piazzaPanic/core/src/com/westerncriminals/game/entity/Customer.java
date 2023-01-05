@@ -5,7 +5,7 @@ public class Customer {
         this.customerName = customerName;
     }
 
-    public boolean getCustomerName() {
+    public String getCustomerName() {
         return this.customerName;
     }
 }
