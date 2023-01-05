@@ -1,0 +1,22 @@
+{
+    "dishes": {
+        "0": {
+            "name": "burger",
+            "duration": 10
+        }
+
+        "1": {
+            "name": "",
+            "duration": 0
+        }
+    },
+
+    "customer_names": [
+        "beelo",
+        "ZatoPulse",
+        "dinzjellybean",
+        "elll._.ie",
+        "daily__sal2",
+        "Lucifer"
+    ]
+}
