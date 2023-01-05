@@ -1,7 +1,7 @@
 public class Customer {
     private String customerName;
 
-    public void getCustomerName(String customerName) {
+    public void setCustomerName(String customerName) {
         this.customerName = customerName;
     }
 
