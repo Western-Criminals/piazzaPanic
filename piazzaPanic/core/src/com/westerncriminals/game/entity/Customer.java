@@ -8,3 +8,4 @@ public class Customer {
     public boolean getCustomerName() {
         return this.customerName;
     }
+}
